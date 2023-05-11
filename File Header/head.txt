@@ -1,0 +1,8 @@
+1. Eggs
+2. Salad
+3. Turkey
+4. Chicken
+5. Milk
+6. Licorice
+7. Sandwich
+8. Carrots
